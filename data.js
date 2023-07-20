@@ -1,6 +1,6 @@
 import {faker} from "@faker-js/faker"
 
-import * as sqlite3 from "sqlite3"
+
 
 
 
